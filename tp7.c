@@ -1,3 +1,4 @@
+//https://github.com/LucioPons/tp7.c/edit/main/tp7.c
 #include <stdio.h>
 
 #define TAM 5
